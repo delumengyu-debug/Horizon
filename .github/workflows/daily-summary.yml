@@ -38,6 +38,8 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: https://api.deepseek.com/v1
           MODEL: deepseek-chat
+          OPENAI_BASE_URL: https://api.deepseek.com/v1
+          MODEL: deepseek-chat
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           MODEL: deepseek-chat
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
