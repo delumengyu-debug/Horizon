@@ -170,7 +170,7 @@
       {
         "name": "Nature - AI",
         "url": "https://www.nature.com/subjects/artificial-intelligence.rss",
-        "enabled": true,
+        "enabled": false,
         "category": "science"
       },
       {
