@@ -109,19 +109,19 @@
       },
       {
         "name": "DeepMind Blog",
-        "url": "https://deepmind.google/blog/rss/",
+        "url": "https://blog.deepmind.com/feed.xml",
         "enabled": true,
         "category": "ai"
       },
       {
         "name": "Meta AI Blog",
-        "url": "https://ai.meta.com/blog/rss/",
+        "url": "https://ai.meta.com/blog/atom.xml",
         "enabled": true,
         "category": "ai"
       },
       {
         "name": "Anthropic Blog",
-        "url": "https://www.anthropic.com/feed.xml",
+        "url": "https://www.anthropic.com/feed",
         "enabled": true,
         "category": "ai"
       },
@@ -139,7 +139,7 @@
       },
       {
         "name": "Bloomberg Tech",
-        "url": "https://feeds.bloomberg.com/markets/technology.rss",
+        "url": "https://www.bloomberg.com/feed/markets/technology",
         "enabled": true,
         "category": "business"
       },
