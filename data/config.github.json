@@ -70,6 +70,114 @@
         "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
         "enabled": true,
         "category": "linux-kernel"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/feed/",
+        "enabled": true,
+        "category": "tech-news"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "enabled": true,
+        "category": "tech-news"
+      },
+      {
+        "name": "ArsTechnica",
+        "url": "https://feeds.arstechnica.com/arstechnica/index",
+        "enabled": true,
+        "category": "tech-science"
+      },
+      {
+        "name": "Wired",
+        "url": "https://www.wired.com/feed/rss",
+        "enabled": true,
+        "category": "tech-culture"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/blog/rss/",
+        "enabled": true,
+        "category": "ai"
+      },
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/technology/ai/rss/",
+        "enabled": true,
+        "category": "ai"
+      },
+      {
+        "name": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/rss/",
+        "enabled": true,
+        "category": "ai"
+      },
+      {
+        "name": "Meta AI Blog",
+        "url": "https://ai.meta.com/blog/rss/",
+        "enabled": true,
+        "category": "ai"
+      },
+      {
+        "name": "Anthropic Blog",
+        "url": "https://www.anthropic.com/feed.xml",
+        "enabled": true,
+        "category": "ai"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "enabled": true,
+        "category": "ai"
+      },
+      {
+        "name": "MIT Tech Review - AI",
+        "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+        "enabled": true,
+        "category": "ai"
+      },
+      {
+        "name": "Bloomberg Tech",
+        "url": "https://feeds.bloomberg.com/markets/technology.rss",
+        "enabled": true,
+        "category": "business"
+      },
+      {
+        "name": "FT Technology",
+        "url": "https://www.ft.com/technology?format=rss",
+        "enabled": true,
+        "category": "business"
+      },
+      {
+        "name": "The Information",
+        "url": "https://www.theinformation.com/feed/rss",
+        "enabled": true,
+        "category": "tech-business"
+      },
+      {
+        "name": "GitHub Blog",
+        "url": "https://github.blog/feed/",
+        "enabled": true,
+        "category": "dev"
+      },
+      {
+        "name": "Stack Overflow Blog",
+        "url": "https://stackoverflow.blog/feed/",
+        "enabled": true,
+        "category": "dev"
+      },
+      {
+        "name": "Nature - AI",
+        "url": "https://www.nature.com/subjects/artificial-intelligence.rss",
+        "enabled": true,
+        "category": "science"
+      },
+      {
+        "name": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/rss/fulltext",
+        "enabled": true,
+        "category": "tech-science"
       }
     ],
     "reddit": {
