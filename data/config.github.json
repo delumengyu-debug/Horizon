@@ -43,7 +43,7 @@
     ],
     "hackernews": {
       "enabled": true,
-      "fetch_top_stories": 30,
+      "fetch_top_stories": 50,
       "min_score": 150
     },
     "rss": [
@@ -1190,7 +1190,7 @@
           "enabled": true,
           "sort": "hot",
           "time_filter": "day",
-          "fetch_limit": 10,
+          "fetch_limit": 20,
           "min_score": 60
         },
         {
@@ -1198,7 +1198,7 @@
           "enabled": true,
           "sort": "hot",
           "time_filter": "day",
-          "fetch_limit": 10,
+          "fetch_limit": 20,
           "min_score": 60
         }
       ],
@@ -1217,7 +1217,7 @@
     }
   },
   "filtering": {
-    "ai_score_threshold": 8.0,
+    "ai_score_threshold": 7.0,
     "time_window_hours": 24
   },
   "webhook": {
