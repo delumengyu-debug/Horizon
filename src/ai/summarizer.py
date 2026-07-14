@@ -148,6 +148,24 @@ class DailySummarizer:
 
         return header + "\n".join(entries)
 
+
+FESIYU_LIMIT = 30 * 1024  # 30KB 飞书消息上限
+
+def generate_webhook_overview_chunks(self) -> List[str]:
+    """生成多条总览消息，每条不超过飞书 30KB 限制"""
+    items = self.important_items
+    chunks = []
+    current = self._overview_header()
+    for item in items:
+        line = self._overview_item_line(item)
+        if len((current + line).encode('utf-8')) > FESIYU_LIMIT:
+            chunks.append(current)
+            current = self._overview_header()
+        current += line + "\n"
+    if current.strip():
+        chunks.append(current)
+    return chunks
+
     def generate_webhook_item(
         self,
         item: ContentItem,
