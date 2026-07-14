@@ -495,16 +495,33 @@ class WebhookNotifier:
                 all_items_count,
                 language=lang,
             )
-            overview_message = {
-                **base_vars,
-                "message_title": (
-                    f"Horizon {date} 总览"
-                    if lang == "zh"
-                    else f"Horizon {date} Overview"
-                ),
-                "message_kind": "overview",
-                "summary": overview,
-            }
+            # 总览分片：每片不超过30KB，用多条消息发送
+            overview_chunks = summarizer.generate_webhook_overview_chunks()
+            if len(overview_chunks) <= 1:
+                overview_messages = [{
+                    **base_vars,
+                    "message_title": (
+                        f"Horizon {date} 总览"
+                        if lang == "zh"
+                        else f"Horizon {date} Overview"
+                    ),
+                    "message_kind": "overview",
+                    "summary": overview,
+                }]
+            else:
+                overview_messages = []
+                for idx, chunk in enumerate(overview_chunks, start=1):
+                    overview_messages.append({
+                        **base_vars,
+                        "message_title": (
+                            f"Horizon {date} 总览 ({idx}/{len(overview_chunks)})"
+                            if lang == "zh"
+                            else f"Horizon {date} Overview ({idx}/{len(overview_chunks)})"
+                        ),
+                        "message_kind": "overview",
+                        "summary": chunk,
+                    })
+            overview_message = overview_messages[0]
             for item_index, item in enumerate(important_items, start=1):
                 title = str(item.metadata.get(f"title_{lang}") or item.title)
                 item_summary = summarizer.generate_webhook_item(
@@ -527,10 +544,15 @@ class WebhookNotifier:
                     }
                 )
 
+            if len(overview_messages) > 1:
+                # 多条总览分片 + 逐条条目
+                if getattr(self.config, "overview_position", "first") == "last":
+                    return list(reversed(item_messages)) + overview_messages
+                return overview_messages + item_messages
             if getattr(self.config, "overview_position", "first") == "last":
-                return list(reversed(item_messages)) + [overview_message]
+                return list(reversed(item_messages)) + overview_messages
 
-            return [overview_message] + item_messages
+            return overview_messages + item_messages
 
         return [
             {
