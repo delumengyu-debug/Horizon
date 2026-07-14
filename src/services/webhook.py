@@ -495,52 +495,49 @@ class WebhookNotifier:
                 all_items_count,
                 language=lang,
             )
-            # 总览分片：每片不超过30KB，用多条消息发送
-            # 总览切成 N 片，每片不超过 30KB
-        FESIYU_BYTE_LIMIT = 28 * 1024  # 留余量到 28KB
-        overview_bytes = overview.encode('utf-8')
-        if len(overview_bytes) > FESIYU_BYTE_LIMIT:
-            lines = overview.split('\n')
-            overview_messages = []
-            current_lines = []
-            current_size = 0
-            for line in lines:
-                line_size = len(line.encode('utf-8')) + 1
-                if current_size + line_size > FESIYU_BYTE_LIMIT and current_lines:
-                    overview_messages.append('\n'.join(current_lines))
-                    current_lines = [line]
-                    current_size = line_size
-                else:
-                    current_lines.append(line)
-                    current_size += line_size
-            if current_lines:
-                overview_messages.append('\n'.join(current_lines))
-            # 包成卡片格式
-            overview_messages_with_title = []
-            for idx, chunk_text in enumerate(overview_messages, start=1):
-                overview_messages_with_title.append({
+            # 总览分片：超过28KB自动切成多条发送
+            FESIYU_BYTE_LIMIT = 28 * 1024
+            overview_bytes = overview.encode('utf-8')
+            if len(overview_bytes) > FESIYU_BYTE_LIMIT:
+                o_lines = overview.split('\n')
+                o_chunks = []
+                cur_lines = []
+                cur_sz = 0
+                for ol in o_lines:
+                    sz = len(ol.encode('utf-8')) + 1
+                    if cur_sz + sz > FESIYU_BYTE_LIMIT and cur_lines:
+                        o_chunks.append('\n'.join(cur_lines))
+                        cur_lines = [ol]
+                        cur_sz = sz
+                    else:
+                        cur_lines.append(ol)
+                        cur_sz += sz
+                if cur_lines:
+                    o_chunks.append('\n'.join(cur_lines))
+                overview_messages = []
+                for idx, ct in enumerate(o_chunks, start=1):
+                    overview_messages.append({
+                        **base_vars,
+                        "message_title": (
+                            f"Horizon {date} 总览 ({idx}/{len(o_chunks)})"
+                            if lang == "zh"
+                            else f"Horizon {date} Overview ({idx}/{len(o_chunks)})"
+                        ),
+                        "message_kind": "overview" if idx == 1 else "overview_continued",
+                        "summary": ct,
+                    })
+            else:
+                overview_messages = [{
                     **base_vars,
                     "message_title": (
-                        f"Horizon {date} 总览 ({idx}/{len(overview_messages)})"
+                        f"Horizon {date} 总览"
                         if lang == "zh"
-                        else f"Horizon {date} Overview ({idx}/{len(overview_messages)})"
+                        else f"Horizon {date} Overview"
                     ),
-                    "message_kind": "overview" if idx == 1 else "overview_continued",
-                    "summary": chunk_text,
-                })
-            overview_messages = overview_messages_with_title
-        else:
-            overview_messages = [{
-                **base_vars,
-                "message_title": (
-                    f"Horizon {date} 总览"
-                    if lang == "zh"
-                    else f"Horizon {date} Overview"
-                ),
-                "message_kind": "overview",
-                "summary": overview,
-            }]
-        overview_message = overview_messages[0]
+                    "message_kind": "overview",
+                    "summary": overview,
+                }]
+            overview_message = overview_messages[0]
             for item_index, item in enumerate(important_items, start=1):
                 title = str(item.metadata.get(f"title_{lang}") or item.title)
                 item_summary = summarizer.generate_webhook_item(
