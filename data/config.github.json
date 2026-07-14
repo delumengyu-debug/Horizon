@@ -180,13 +180,13 @@
         "category": "tech-science"
       },
       {
-        "name": "\u4eba\u4eba\u90fd\u662f\u4ea7\u54c1\u7ecf\u7406",
+        "name": "人人都是产品经理",
         "url": "https://wechat2rss.bestblogs.dev/feed/2d790e38f8af54c5af77fa5fed687a7c66d34c22.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u91cf\u5b50\u4f4d",
+        "name": "量子位",
         "url": "https://www.qbitai.com/feed",
         "enabled": true,
         "category": "bestblogs"
@@ -228,13 +228,13 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u5b9d\u7389\u7684\u5206\u4eab",
+        "name": "宝玉的分享",
         "url": "https://baoyu.io/feed.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u6398\u91d1\u672c\u5468\u6700\u70ed",
+        "name": "掘金本周最热",
         "url": "https://rsshub.bestblogs.dev/juejin/trending/all/weekly",
         "enabled": true,
         "category": "bestblogs"
@@ -246,7 +246,7 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u817e\u8baf\u6280\u672f\u5de5\u7a0b",
+        "name": "腾讯技术工程",
         "url": "https://wechat2rss.bestblogs.dev/feed/1e0ac39f8952b2e7f0807313cf2633d25078a171.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -336,13 +336,13 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u673a\u5668\u4e4b\u5fc3",
+        "name": "机器之心",
         "url": "https://wechat2rss.bestblogs.dev/feed/8d97af31b0de9e48da74558af128a4673d78c9a3.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u7231\u8303\u513f",
+        "name": "爱范儿",
         "url": "http://www.ifanr.com/feed",
         "enabled": true,
         "category": "bestblogs"
@@ -354,7 +354,7 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u962e\u4e00\u5cf0\u7684\u7f51\u7edc\u65e5\u5fd7",
+        "name": "阮一峰的网络日志",
         "url": "http://feeds.feedburner.com/ruanyifeng",
         "enabled": true,
         "category": "bestblogs"
@@ -408,43 +408,43 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u963f\u91cc\u6280\u672f",
+        "name": "阿里技术",
         "url": "https://wechat2rss.bestblogs.dev/feed/6535a444e9651fecae3383363be7589acdebe2b6.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5c0f\u7c73\u6280\u672f",
+        "name": "小米技术",
         "url": "https://wechat2rss.bestblogs.dev/feed/8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u54d4\u54e9\u54d4\u54e9\u6280\u672f",
+        "name": "哔哩哔哩技术",
         "url": "https://wechat2rss.bestblogs.dev/feed/3a12ae4fde5bb74aab2fddc9f710a3c057eab82f.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u963f\u91cc\u4e91\u5f00\u53d1\u8005",
+        "name": "阿里云开发者",
         "url": "https://wechat2rss.bestblogs.dev/feed/39fc51b0b1316137e608c45da5dbbca4f9eb9538.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5b57\u8282\u8df3\u52a8\u6280\u672f\u56e2\u961f",
+        "name": "字节跳动技术团队",
         "url": "https://wechat2rss.bestblogs.dev/feed/d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u6781\u5ba2\u516c\u56ed",
+        "name": "极客公园",
         "url": "https://wechat2rss.bestblogs.dev/feed/11ea7163fbea99e2ab9fa2812ac3d179574886cc.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u7f8e\u56e2\u6280\u672f\u56e2\u961f",
+        "name": "美团技术团队",
         "url": "https://tech.meituan.com/feed/",
         "enabled": true,
         "category": "bestblogs"
@@ -468,151 +468,151 @@
         "category": "bestblogs"
       },
       {
-        "name": "ShowMeAI\u7814\u7a76\u4e2d\u5fc3",
+        "name": "ShowMeAI研究中心",
         "url": "https://wechat2rss.bestblogs.dev/feed/854a592a3bac3c2574d092daf4628cf65dfd1858.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5947\u821e\u7cbe\u9009",
+        "name": "奇舞精选",
         "url": "https://wechat2rss.bestblogs.dev/feed/156a64fe3e95eebe4b85bf981d6ebb85441897bf.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u4eac\u4e1c\u6280\u672f",
+        "name": "京东技术",
         "url": "https://wechat2rss.bestblogs.dev/feed/fa0be550682410cc187c0d1eab1a0fc4e073b949.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u7845\u8c37\u79d1\u6280\u8bc4\u8bba",
+        "name": "硅谷科技评论",
         "url": "https://wechat2rss.bestblogs.dev/feed/4515ee058133ff68570ad586abdd81f54f2b6ee3.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5f97\u7269\u6280\u672f",
+        "name": "得物技术",
         "url": "https://wechat2rss.bestblogs.dev/feed/1cde72c9129b1f79cbb150166e7fed9a7568ee10.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u767e\u5ea6Geek\u8bf4",
+        "name": "百度Geek说",
         "url": "https://wechat2rss.bestblogs.dev/feed/6cc437d76f9dc4f7c35011c72e471e33e7bdd384.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5927\u6dd8\u5b9d\u6280\u672f",
+        "name": "大淘宝技术",
         "url": "https://wechat2rss.bestblogs.dev/feed/26fef2307bebc8673703f7e726982d8f56c9a219.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "Web3\u5929\u7a7a\u4e4b\u57ce",
+        "name": "Web3天空之城",
         "url": "https://wechat2rss.bestblogs.dev/feed/6aac3cc6d4c6df6fb3f77dea4ea4ba4a2053d6e7.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "AI\u524d\u7ebf",
+        "name": "AI前线",
         "url": "https://wechat2rss.bestblogs.dev/feed/25185b01482da0f485418ecb92e208b4416712fb.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u65b0\u667a\u5143",
+        "name": "新智元",
         "url": "https://wechat2rss.bestblogs.dev/feed/e531a18b21c34cf787b83ab444eef659d7a980de.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "51CTO\u6280\u672f\u6808",
+        "name": "51CTO技术栈",
         "url": "https://wechat2rss.bestblogs.dev/feed/d1fabe6c569ffc44979075dde2f57c65e07c3045.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u4f18\u8bbe",
+        "name": "优设",
         "url": "https://wechat2rss.bestblogs.dev/feed/8fee9d33e883a769a59a5a3e27d249cf8567b55a.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u524d\u7aef\u5145\u7535\u5b9d",
+        "name": "前端充电宝",
         "url": "https://wechat2rss.bestblogs.dev/feed/efed19b684285ee14f88b3f234b350fba9376d7a.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u7a00\u571f\u6398\u91d1\u6280\u672f\u793e\u533a",
+        "name": "稀土掘金技术社区",
         "url": "https://wechat2rss.bestblogs.dev/feed/33ecd2122ae788ea02dfcf1df857a54b9ae1338d.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u817e\u8baf\u4e91\u5f00\u53d1\u8005",
+        "name": "腾讯云开发者",
         "url": "https://wechat2rss.bestblogs.dev/feed/6cec2c211479a5502896375860009782cf10c2ba.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u4f53\u9a8c\u8fdb\u9636",
+        "name": "体验进阶",
         "url": "https://wechat2rss.bestblogs.dev/feed/083c360a74b36b2c33820a995d21cbf60c813c0a.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u524d\u7aef\u65e9\u8bfb\u8bfe",
+        "name": "前端早读课",
         "url": "https://wechat2rss.bestblogs.dev/feed/ce2456e157156d42259c1198f05a33e27b1ed959.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5f00\u6e90\u670d\u52a1\u6307\u5357",
+        "name": "开源服务指南",
         "url": "https://wechat2rss.bestblogs.dev/feed/c125f09ef36fd6b6cb092c409e69a5bcc867d378.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "dbaplus\u793e\u7fa4",
+        "name": "dbaplus社群",
         "url": "https://wechat2rss.bestblogs.dev/feed/a92cc44a756e2b9165fed5572aa7337843a73eee.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u8d85\u4eba\u7684\u7535\u8bdd\u4ead",
+        "name": "超人的电话亭",
         "url": "https://wechat2rss.bestblogs.dev/feed/4be15abcd5621887bb7c1e2efd2d1cd8c68a16f0.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "Qunar\u6280\u672f\u6c99\u9f99",
+        "name": "Qunar技术沙龙",
         "url": "https://wechat2rss.bestblogs.dev/feed/84c072f8d34d1690f2783d7dda6013cf6d892b7f.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "42\u7ae0\u7ecf",
+        "name": "42章经",
         "url": "https://wechat2rss.bestblogs.dev/feed/f6694726ced4ba3d7c7cd65c6edf2160c5978387.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u968f\u673a\u5c0f\u5206\u961f",
+        "name": "随机小分队",
         "url": "https://wechat2rss.bestblogs.dev/feed/115e814e7b12d373a55459cb2aea3223152f2af2.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u963f\u91cc\u7814\u7a76\u9662",
+        "name": "阿里研究院",
         "url": "https://wechat2rss.bestblogs.dev/feed/e2f1190c120f7f3d74b630bfcfe9e58296bd535c.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u6df1\u601d\u5708",
+        "name": "深思圈",
         "url": "https://wechat2rss.bestblogs.dev/feed/3e6fcb56a39b2e18f1036113655d4ff8fe726b62.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -624,7 +624,7 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u521b\u4e1a\u90a6",
+        "name": "创业邦",
         "url": "https://wechat2rss.bestblogs.dev/feed/f5e0d8e342d9e2ec5b2942f08522cfaec17acc8d.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -636,19 +636,19 @@
         "category": "bestblogs"
       },
       {
-        "name": "vivo\u4e92\u8054\u7f51\u6280\u672f",
+        "name": "vivo互联网技术",
         "url": "https://wechat2rss.bestblogs.dev/feed/b3ceb5cb1e4602ca55704650a157ec9c5b2f0d31.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u6b78\u85cf\u7684AI\u5de5\u5177\u7bb1",
+        "name": "歸藏的AI工具箱",
         "url": "https://wechat2rss.bestblogs.dev/feed/1c3e3571b1627d23ee9c64521a0b0a41d3fe2987.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "Clip\u8bbe\u8ba1\u5939",
+        "name": "Clip设计夹",
         "url": "https://wechat2rss.bestblogs.dev/feed/ebd5f5bd705dd531066eeca5ee500a1e6a269e17.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -660,13 +660,13 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u817e\u8baf\u79d1\u6280",
+        "name": "腾讯科技",
         "url": "https://wechat2rss.bestblogs.dev/feed/a81bdfcbb9eefe870d285e81510ffa1af26e4520.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "InfoQ \u4e2d\u6587",
+        "name": "InfoQ 中文",
         "url": "https://wechat2rss.bestblogs.dev/feed/13da94d7eb314b49fa251cb7e8399cae29d772db.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -684,7 +684,7 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u6d77\u5916\u72ec\u89d2\u517d",
+        "name": "海外独角兽",
         "url": "https://wechat2rss.bestblogs.dev/feed/7200d3a5e976d231deb1e40ad33745c0e649b029.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -696,49 +696,49 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u8c37\u6b4c\u5f00\u53d1\u8005",
+        "name": "谷歌开发者",
         "url": "https://wechat2rss.bestblogs.dev/feed/9c65b8470acb8a5400199616536995d5ba90f52e.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u8d5b\u535a\u7985\u5fc3",
+        "name": "赛博禅心",
         "url": "https://wechat2rss.bestblogs.dev/feed/752c31ca0446b837339463fc5440539e20267d2f.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u7b14\u8bb0\u4fa0",
+        "name": "笔记侠",
         "url": "https://wechat2rss.bestblogs.dev/feed/4c5d9bcc2fbfcd1dc81fb67559653f8957ef4760.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5c0f\u7ea2\u4e66\u6280\u672fREDtech",
+        "name": "小红书技术REDtech",
         "url": "https://wechat2rss.bestblogs.dev/feed/0f8c47df6fd304112518544776e0bbf1d98ba0b9.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u667a\u8c31",
+        "name": "智谱",
         "url": "https://wechat2rss.bestblogs.dev/feed/433d2134dca54d80804daf32e8be546155be3300.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u6708\u4e4b\u6697\u9762 Kimi",
+        "name": "月之暗面 Kimi",
         "url": "https://wechat2rss.bestblogs.dev/feed/c5c43d4bc17bae656763859ed0903bb6314ec6fe.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u901a\u4e49\u5927\u6a21\u578b",
+        "name": "通义大模型",
         "url": "https://wechat2rss.bestblogs.dev/feed/4ebee6222ae08705b8aabc9116f0defbcb6b17c6.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u767e\u5ea6AI",
+        "name": "百度AI",
         "url": "https://wechat2rss.bestblogs.dev/feed/d0767d885e6ba213344fb0c0408c51331e23a994.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -750,13 +750,13 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u7ecf\u7eac\u521b\u6295",
+        "name": "经纬创投",
         "url": "https://wechat2rss.bestblogs.dev/feed/05efb1c4cf91e5a37443cc323150ea38a838e9fd.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u817e\u8baf\u6df7\u5143",
+        "name": "腾讯混元",
         "url": "https://wechat2rss.bestblogs.dev/feed/306ce19a1ca590c9c2df781789e828d1acfa1356.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -768,25 +768,25 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u5218\u6da6",
+        "name": "刘润",
         "url": "https://wechat2rss.bestblogs.dev/feed/c1354f67c314d25d6e236a58724043bdc46d6079.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5434\u6653\u6ce2\u9891\u9053",
+        "name": "吴晓波频道",
         "url": "https://wechat2rss.bestblogs.dev/feed/604fd0bfbb0214958f7fd2718509e4ea038c6afc.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u667a\u4e1c\u897f",
+        "name": "智东西",
         "url": "https://wechat2rss.bestblogs.dev/feed/cfd52b4245ca6119b2fda4ef934832c689028927.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u817e\u8baf\u7814\u7a76\u9662",
+        "name": "腾讯研究院",
         "url": "https://wechat2rss.bestblogs.dev/feed/6152301e0978bffb0a8284cab339262b9764dcfb.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -798,55 +798,55 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u6709\u673a\u5927\u6a58\u5b50",
+        "name": "有机大橘子",
         "url": "https://wechat2rss.bestblogs.dev/feed/6cef434b771dd75a91864b2e699a622cb4e3eb33.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "Thoughtworks\u6d1e\u89c1",
+        "name": "Thoughtworks洞见",
         "url": "https://wechat2rss.bestblogs.dev/feed/96b507f9985efa59e549e95a6363c2b6edfa8f2e.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u6d6e\u4e4b\u9759",
+        "name": "浮之静",
         "url": "https://wechat2rss.bestblogs.dev/feed/abb0de0c0cb8f684a1606a4b20121b245547adce.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b",
+        "name": "数字生命卡兹克",
         "url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "AI\u4ea7\u54c1\u9ec4\u53d4",
+        "name": "AI产品黄叔",
         "url": "https://wechat2rss.bestblogs.dev/feed/1f1030491e15e5349aae42367513d6b3f70a8f8b.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5370\u8bb0\u4e2d\u6587",
+        "name": "印记中文",
         "url": "https://wechat2rss.bestblogs.dev/feed/2b038bb5307a75a603405f7191b5030576d3e8bd.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u771f\u683c\u57fa\u91d1",
+        "name": "真格基金",
         "url": "https://wechat2rss.bestblogs.dev/feed/47798a14d51da72e68fae4f7a259f096750cf03e.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5927\u6a21\u578b\u667a\u80fd",
+        "name": "大模型智能",
         "url": "https://wechat2rss.bestblogs.dev/feed/bfc6440c1a2443fab9a6bf607137d41db5cd5c93.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u7532\u5b50\u5149\u5e74",
+        "name": "甲子光年",
         "url": "https://wechat2rss.bestblogs.dev/feed/1c4008936645d5c17239d99bba91522cf2bdfa26.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -858,67 +858,67 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u6df1\u7f51\u817e\u8baf\u65b0\u95fb",
+        "name": "深网腾讯新闻",
         "url": "https://wechat2rss.bestblogs.dev/feed/396591aa7d3ef15fa3b5b17ec4b1aa840ebde335.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "AI\u70bc\u91d1\u672f",
+        "name": "AI炼金术",
         "url": "https://wechat2rss.bestblogs.dev/feed/4915f3747653bbb9c7975323c11b768d2b9cd6c9.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u767d\u9cb8\u51fa\u6d77",
+        "name": "白鲸出海",
         "url": "https://wechat2rss.bestblogs.dev/feed/2b8f03a73a0f2ac92a8ca69c124e5be6f442dbdc.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u7845\u661f\u4ebaPro",
+        "name": "硅星人Pro",
         "url": "https://wechat2rss.bestblogs.dev/feed/c62ceda9eed269d851802bdbc5f33c4fabbf7462.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "AI\u79d1\u6280\u8bc4\u8bba",
+        "name": "AI科技评论",
         "url": "https://wechat2rss.bestblogs.dev/feed/789e5fefb9cc2646ba7b680cb7a88378a34eb7a4.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5c71\u884cAI",
+        "name": "山行AI",
         "url": "https://wechat2rss.bestblogs.dev/feed/98bc16b6f53902a2ab511b4faa3499e0a1c78eb1.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u9b54\u642dModelScope\u793e\u533a",
+        "name": "魔搭ModelScope社区",
         "url": "https://wechat2rss.bestblogs.dev/feed/d993a885260f96057b9a4c96212cb2c95bb5054b.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5f3a\u5c11\u6765\u4e86",
+        "name": "强少来了",
         "url": "https://wechat2rss.bestblogs.dev/feed/3c36fe804f63a7b936e372a37929d81fa0ad948a.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u571f\u731b\u7684\u5458\u5916",
+        "name": "土猛的员外",
         "url": "https://wechat2rss.bestblogs.dev/feed/3ee671d065adc460bc20bbd269115987098c54a0.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u6697\u6d8cWaves",
+        "name": "暗涌Waves",
         "url": "https://wechat2rss.bestblogs.dev/feed/bd586c1499b56aaec02dfefa87126232d234b010.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5915\u5c0f\u7476\u79d1\u6280\u8bf4",
+        "name": "夕小瑶科技说",
         "url": "https://wechat2rss.bestblogs.dev/feed/64b57d666259aee6bd097e76164e4a8371f0ad04.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -930,19 +930,19 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u673a\u5668\u4e4b\u5fc3SOTA\u6a21\u578b",
+        "name": "机器之心SOTA模型",
         "url": "https://wechat2rss.bestblogs.dev/feed/2f520471856d56c7b3a95cd09eb777149b32828a.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u9636\u8dc3\u661f\u8fb0",
+        "name": "阶跃星辰",
         "url": "https://wechat2rss.bestblogs.dev/feed/3e2714d06aa36142e8ed6b3f4e5cf9090a069dd2.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5feb\u624b\u6280\u672f",
+        "name": "快手技术",
         "url": "https://wechat2rss.bestblogs.dev/feed/c4cc10d2e32a5fa12927581ae581a336f399fe75.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -954,19 +954,19 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u5b57\u8282\u8df3\u52a8Seed",
+        "name": "字节跳动Seed",
         "url": "https://wechat2rss.bestblogs.dev/feed/6efd40bb335d2037f365d284cb5e00f0843e737e.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5341\u5b57\u8def\u53e3Crossing",
+        "name": "十字路口Crossing",
         "url": "https://wechat2rss.bestblogs.dev/feed/20492a5f2d3637c178c01ab0bab7ed86a4a0995b.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u9752\u54e5\u8c08AI",
+        "name": "青哥谈AI",
         "url": "https://wechat2rss.bestblogs.dev/feed/00a1da3493512c20aff1ea5a0d1a02537e931b36.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -984,13 +984,13 @@
         "category": "bestblogs"
       },
       {
-        "name": "AI\u5bd2\u6b66\u7eaa",
+        "name": "AI寒武纪",
         "url": "https://wechat2rss.bestblogs.dev/feed/5903009f48a5e4aa44d8ac941a54fe3aafc3e03c.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "MiniMax \u7a00\u5b87\u79d1\u6280",
+        "name": "MiniMax 稀宇科技",
         "url": "https://wechat2rss.bestblogs.dev/feed/00306b171f754d463b28cf83f3ba086ad009b430.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -1002,7 +1002,7 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u82b1\u53d4",
+        "name": "花叔",
         "url": "https://wechat2rss.bestblogs.dev/feed/ed3e181242a4622709081439d802523ecf7b78f2.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -1044,97 +1044,97 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u5411\u9633\u4e54\u6728\u63a8\u8350\u770b",
+        "name": "向阳乔木推荐看",
         "url": "https://wechat2rss.bestblogs.dev/feed/3e50f11753a7c5ed689565fbf5abf96cb4541c57.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u4e4c\u9e26\u667a\u80fd\u8bf4",
+        "name": "乌鸦智能说",
         "url": "https://wechat2rss.bestblogs.dev/feed/f21c3e34df9b5fecfda57e2e53512864255ed4cd.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "yikai \u7684\u6478\u9c7c\u7b14\u8bb0",
+        "name": "yikai 的摸鱼笔记",
         "url": "https://wechat2rss.bestblogs.dev/feed/13492cb50df57702cdc0dfa71467cd03f9dd69be.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u674e\u7ee7\u521a",
+        "name": "李继刚",
         "url": "https://wechat2rss.bestblogs.dev/feed/9645a69180041ff935c458753174fa8bc2061295.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u6c83\u57a0AI",
+        "name": "沃垠AI",
         "url": "https://wechat2rss.bestblogs.dev/feed/339818dbd5154cecdf5f4161f3391c7038a72bae.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "L\u5148\u751f\u8bf4",
+        "name": "L先生说",
         "url": "https://wechat2rss.bestblogs.dev/feed/31c7fb6f7959a5ff90ae997b536e78b8b3f23321.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u6709\u65b0Newin",
+        "name": "有新Newin",
         "url": "https://wechat2rss.bestblogs.dev/feed/74554dcb3da8982083426b871bc8c314a9de9729.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u665a\u70b9LatePost",
+        "name": "晚点LatePost",
         "url": "https://wechat2rss.bestblogs.dev/feed/c442206ec9957f3c52f2f40300ca532079538b31.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u888b\u9f20\u5e1dAI\u5ba2\u6808",
+        "name": "袋鼠帝AI客栈",
         "url": "https://wechat2rss.bestblogs.dev/feed/24d0930cc9f4f0c708182dc1c087d41e1f4cbd33.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "AI\u79d1\u6280\u5927\u672c\u8425",
+        "name": "AI科技大本营",
         "url": "https://wechat2rss.bestblogs.dev/feed/dfd3b5e742e32d8032a445832373191957202bf3.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5361\u5c14\u7684AI\u6c83\u8328",
+        "name": "卡尔的AI沃茨",
         "url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u901b\u901bGitHub",
+        "name": "逛逛GitHub",
         "url": "https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u963f\u771fIrene",
+        "name": "阿真Irene",
         "url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u7f51\u6613\u79d1\u6280",
+        "name": "网易科技",
         "url": "https://wechat2rss.bestblogs.dev/feed/028fbc21062e744c7b606880ebca01e22cb4b7b7.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u67b6\u6784\u5e08\u4e4b\u8def",
+        "name": "架构师之路",
         "url": "https://wechat2rss.bestblogs.dev/feed/f6dec1c3ad16e43532dd427c85eaeb3a7b7b084e.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u7845\u8c37101",
+        "name": "硅谷101",
         "url": "https://wechat2rss.bestblogs.dev/feed/8f8fe34034f6123b168ed7847c51d50ff47cd7ee.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -1152,19 +1152,19 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u5c11\u6570\u6d3e",
+        "name": "少数派",
         "url": "https://wechat2rss.bestblogs.dev/feed/f0e37a7d597231efed4bf6dd05b5d904de6dbcc1.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u8bed\u8a00\u5373\u4e16\u754clanguage is world",
+        "name": "语言即世界language is world",
         "url": "https://wechat2rss.bestblogs.dev/feed/e1ed0d3edd93f90aef602105eb7ca51b35b7060a.xml",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5218\u5c0f\u6392r",
+        "name": "刘小排r",
         "url": "https://wechat2rss.bestblogs.dev/feed/484d4199ae6c0b72ea01e7e0597a1f74933dfb62.xml",
         "enabled": true,
         "category": "bestblogs"
@@ -1422,61 +1422,61 @@
         "category": "bestblogs"
       },
       {
-        "name": "What's Next\uff5c\u79d1\u6280\u65e9\u77e5\u9053",
+        "name": "What's Next｜科技早知道",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/5e74b52c418a84a046ecaceb",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u65e0\u4eba\u77e5\u6653",
+        "name": "无人知晓",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/611719d3cb0b82e1df0ad29e",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u7845\u8c37101",
+        "name": "硅谷101",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/5e5c52c9418a84a04625e6cc",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u4e09\u4e94\u73af",
+        "name": "三五环",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/5e280fab418a84a0461faa3c",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5f20\u5c0f\u73faJ\u00f9n\uff5c\u5546\u4e1a\u8bbf\u8c08\u5f55",
+        "name": "张小珺Jùn｜商业访谈录",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/626b46ea9cbbf0451cf5a962",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "42\u7ae0\u7ecf",
+        "name": "42章经",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/648b0b641c48983391a63f98",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5341\u5b57\u8def\u53e3Crossing",
+        "name": "十字路口Crossing",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/60502e253c92d4f62c2a9577",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u77e5\u884c\u5c0f\u9152\u9986",
+        "name": "知行小酒馆",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/6013f9f58e2f7ee375cf4216",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u7eb5\u6a2a\u56db\u6d77",
+        "name": "纵横四海",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/62694abdb221dd5908417d1e",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u4e71\u7ffb\u4e66",
+        "name": "乱翻书",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/61358d971c5d56efe5bcb5d2",
         "enabled": true,
         "category": "bestblogs"
@@ -1488,115 +1488,115 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u786c\u5730\u9a87\u5ba2",
+        "name": "硬地骇客",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/640ee2438be5d40013fe4a87",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "AI\u70bc\u91d1\u672f",
+        "name": "AI炼金术",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/63e9ef4de99bdef7d39944c8",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u4eba\u6c11\u516c\u56ed\u8bf4AI",
+        "name": "人民公园说AI",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/65257ff6e8ce9deaf70a65e9",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u4fdd\u6301\u504f\u89c1",
+        "name": "保持偏见",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/663e3c95af1e22bb157dcee3",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u67ab\u8a00\u67ab\u8bed",
+        "name": "枫言枫语",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/5e2864f5418a84a04628e249",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5c60\u9f99\u4e4b\u672f",
+        "name": "屠龙之术",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/6507bc165c88d2412626b401",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u665a\u70b9\u804a LateTalk",
+        "name": "晚点聊 LateTalk",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/61933ace1b4320461e91fd55",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5f00\u59cb\u8fde\u63a5LinkStart",
+        "name": "开始连接LinkStart",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/63ff0da51b1faf8a0b70b337",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u6b64\u8bdd\u5f53\u771f",
+        "name": "此话当真",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/646f194853a5e5ea1408d97c",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u8de8\u56fd\u4e32\u95e8\u513f\u8ba1\u5212",
+        "name": "跨国串门儿计划",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/670f3da40d2f24f28978736f",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u536b\u8bd7\u5a55\uff5c\u5546\u4e1a\u6f2b\u8c08Jane's talk",
+        "name": "卫诗婕｜商业漫谈Jane's talk",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/6627fda4b56459544087d86a",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u4e1c\u8154\u897f\u8c03",
+        "name": "东腔西调",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/5f72b66083c34e85dd14fde9",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u76ae\u86cb\u6f2b\u6e38\u8bb0",
+        "name": "皮蛋漫游记",
         "url": "http://rsshub.bestblogs.dev/xiaoyuzhou/podcast/6281264ad22bcf3950c80b56",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5947\u60f3\u9a7f by \u4ea7\u54c1\u6c89\u601d\u5f55",
+        "name": "奇想驿 by 产品沉思录",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/6034daea97755b8fc9c66480",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u725b\u6cb9\u679c\u70e4\u9762\u5305",
+        "name": "牛油果烤面包",
         "url": "http://rsshub.bestblogs.dev/xiaoyuzhou/podcast/5e7c8b2b418a84a046e3ecbc",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u534a\u62ff\u94c1 | \u5546\u4e1a\u6c89\u6d6e\u5f55",
+        "name": "半拿铁 | 商业沉浮录",
         "url": "http://rsshub.bestblogs.dev/xiaoyuzhou/podcast/62382c1103bea1ebfffa1c00",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u81ea\u4e60\u5ba4 STUDY ROOM",
+        "name": "自习室 STUDY ROOM",
         "url": "http://rsshub.bestblogs.dev/xiaoyuzhou/podcast/65a5fb7540d4ef949c0140ac",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u5929\u771f\u4e0d\u5929\u771f",
+        "name": "天真不天真",
         "url": "http://rsshub.bestblogs.dev/xiaoyuzhou/podcast/65cef9e3cace72dff8d98de3",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "\u7f57\u6c38\u6d69\u7684\u5341\u5b57\u8def\u53e3",
+        "name": "罗永浩的十字路口",
         "url": "https://rsshub.bestblogs.dev/xiaoyuzhou/podcast/68981df29e7bcd326eb91d88",
         "enabled": true,
         "category": "bestblogs"
@@ -1656,13 +1656,13 @@
         "category": "bestblogs"
       },
       {
-        "name": "Kevin Weil \ud83c\uddfa\ud83c\uddf8(@kevinweil)",
+        "name": "Kevin Weil 🇺🇸(@kevinweil)",
         "url": "https://api.xgo.ing/rss/user/3ca3c7698fd04611a0e7d14fae93c84c",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "Marc Andreessen \ud83c\uddfa\ud83c\uddf8(@pmarca)",
+        "name": "Marc Andreessen 🇺🇸(@pmarca)",
         "url": "https://api.xgo.ing/rss/user/63316630d94543f5a6480f230f483008",
         "enabled": true,
         "category": "bestblogs"
@@ -1692,7 +1692,7 @@
         "category": "bestblogs"
       },
       {
-        "name": "Anton Osika \u2013 eu/acc(@antonosika)",
+        "name": "Anton Osika – eu/acc(@antonosika)",
         "url": "https://api.xgo.ing/rss/user/5f13b32b124a41cfb659f903a84032b1",
         "enabled": true,
         "category": "bestblogs"
@@ -1716,13 +1716,13 @@
         "category": "bestblogs"
       },
       {
-        "name": "Replit \u2815(@Replit)",
+        "name": "Replit ⠕(@Replit)",
         "url": "https://api.xgo.ing/rss/user/613f859e4bc440c5a28f40732840f5cf",
         "enabled": true,
         "category": "bestblogs"
       },
       {
-        "name": "clem \ud83e\udd17(@ClementDelangue)",
+        "name": "clem 🤗(@ClementDelangue)",
         "url": "https://api.xgo.ing/rss/user/5dbd038a8f5140938d0877511571797b",
         "enabled": true,
         "category": "bestblogs"
@@ -1770,7 +1770,7 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u674e\u7ee7\u521a(@lijigang_com)",
+        "name": "李继刚(@lijigang_com)",
         "url": "https://api.xgo.ing/rss/user/ca2fa444b6ea4b8b974fe148056e497a",
         "enabled": true,
         "category": "bestblogs"
@@ -1872,7 +1872,7 @@
         "category": "bestblogs"
       },
       {
-        "name": "Weaviate \u2022 vector database(@weaviate_io)",
+        "name": "Weaviate • vector database(@weaviate_io)",
         "url": "https://api.xgo.ing/rss/user/2f1035ec6b28475987af06b600e1d04c",
         "enabled": true,
         "category": "bestblogs"
@@ -2028,7 +2028,7 @@
         "category": "bestblogs"
       },
       {
-        "name": "LlamaIndex \ud83e\udd99(@llama_index)",
+        "name": "LlamaIndex 🦙(@llama_index)",
         "url": "https://api.xgo.ing/rss/user/67e259bd5be544ce84bbc867eace54c2",
         "enabled": true,
         "category": "bestblogs"
@@ -2130,7 +2130,7 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u5b9d\u7389(@dotey)",
+        "name": "宝玉(@dotey)",
         "url": "https://api.xgo.ing/rss/user/97f1484ae48c430fbbf3438099743674",
         "enabled": true,
         "category": "bestblogs"
@@ -2196,7 +2196,7 @@
         "category": "bestblogs"
       },
       {
-        "name": "Barsee \ud83d\udc36(@heyBarsee)",
+        "name": "Barsee 🐶(@heyBarsee)",
         "url": "https://api.xgo.ing/rss/user/244eb9fa77ce4fa3b7fa5ceba80027a4",
         "enabled": true,
         "category": "bestblogs"
@@ -2274,7 +2274,7 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u6b78\u85cf(guizang.ai)(@op7418)",
+        "name": "歸藏(guizang.ai)(@op7418)",
         "url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
         "enabled": true,
         "category": "bestblogs"
@@ -2304,7 +2304,7 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u5c0f\u4e92(@imxiaohu)",
+        "name": "小互(@imxiaohu)",
         "url": "https://api.xgo.ing/rss/user/74e542992cf7441390c708f5601071d4",
         "enabled": true,
         "category": "bestblogs"
@@ -2322,7 +2322,7 @@
         "category": "bestblogs"
       },
       {
-        "name": "\u5411\u9633\u4e54\u6728(@vista8)",
+        "name": "向阳乔木(@vista8)",
         "url": "https://api.xgo.ing/rss/user/9de19c78f7454ad08c956c1a00d237fe",
         "enabled": true,
         "category": "bestblogs"
@@ -2502,7 +2502,7 @@
         "category": "bestblogs"
       },
       {
-        "name": "AI\u4ea7\u54c1\u9ec4\u53d4(@PMbackttfuture)",
+        "name": "AI产品黄叔(@PMbackttfuture)",
         "url": "https://api.xgo.ing/rss/user/5b632b7fba274f62928cdcc9d3db4c5e",
         "enabled": true,
         "category": "bestblogs"
@@ -2606,7 +2606,7 @@
     "delivery": "summary_and_items",
     "overview_position": "last",
     "platform": "feishu",
-    "layout": "collapsible",
+    "layout": "markdown",
     "fallback_layout": "markdown",
     "languages": [
       "zh"
